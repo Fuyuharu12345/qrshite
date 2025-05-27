@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CollegeStudent"},{"p":"<Unnamed>","l":"GradeLevel"},{"p":"<Unnamed>","l":"HighSchoolStudent"},{"p":"<Unnamed>","l":"QRCodeGenerator"},{"p":"<Unnamed>","l":"Student"},{"p":"<Unnamed>","l":"StudentManager"},{"p":"<Unnamed>","l":"StudentQRCodeApp"}];updateSearchResults();
